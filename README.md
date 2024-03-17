@@ -1,4 +1,7 @@
 - 👋 Olá, eu sou o @ruan-comJ
+- 🔺 Mineiro 
+- 🎓 Acadêmico de Engenharia de Software
+- 🐍 Estudante da linguagem Python
 
 
 <!---
