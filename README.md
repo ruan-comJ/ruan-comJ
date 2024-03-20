@@ -5,8 +5,8 @@
 
 
 <div>
-<img height=180em align="center"  src="https://github-readme-stats.vercel.app/api?username=ruan-comJ&show_icons=true&theme=codeSTACKr&border_color=e4e2e2" />
-<img height=180em align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=ruan-comJ&show_icons=true&theme=codeSTACKr&layout=compact&border_color=e4e2e2" />
+<img width=45% align="center"  src="https://github-readme-stats.vercel.app/api?username=ruan-comJ&show_icons=true&theme=codeSTACKr&border_color=e4e2e2" />
+<img width=49% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=ruan-comJ&show_icons=true&theme=codeSTACKr&layout=compact&border_color=e4e2e2" />
  </div>
 
 
