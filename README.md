@@ -1,7 +1,7 @@
 - 👋 Olá, eu sou o @ruan-comJ
 - 🔺 Mineiro 
 - 🎓 Acadêmico de Engenharia de Software
-- #️⃣  Estudante da linguagem C#/.NET
+- #️⃣    Estudante da linguagem C#/.NET
 
 
 <div>
